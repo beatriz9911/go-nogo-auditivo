@@ -45,7 +45,7 @@ const WORD_LABELS = {
     "vos": "Vós"
 };
 
-const INTERVAL_TIME = 1500;
+const INTERVAL_TIME = 1000;
 const TEST_WORDS = ["sim", "pe", "dor"];
 
 let state = {
